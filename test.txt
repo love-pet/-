@@ -3,3 +3,5 @@ test.txt4`:
 拉瓦西？>>>>>:asp:
 reset
 reset2
+reset3
+reset4
