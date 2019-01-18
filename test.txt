@@ -1,8 +1,7 @@
-test.txt4`:
-托尔斯泰死啦吗？；
-拉瓦西？>>>>>:asp:
-reset
-reset2
-reset3
-reset4
-reset5
+git checkout file
+git status
+git add file
+git commit -m "say something"
+git push origin
+git pull origin
+git clone origin
